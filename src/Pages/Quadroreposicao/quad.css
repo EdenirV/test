@@ -1,0 +1,66 @@
+.formulario{
+  margin-top: 2% ;
+  padding-bottom: 5.5%;
+  padding: 20px;
+  width: 400px;
+  height: 442px;
+  border: 2px solid #ffffff
+}
+
+.fundo{
+    background-color: #171f38;
+    height: 650px;
+}
+
+.label{
+    color: white;
+     display:inline-block;
+}
+
+.for2{
+  margin-top: 0%;
+}
+
+.Cor{
+  color: white;
+  font-size: 15px;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.Head{
+  border: solid 1px white;
+  color: white;
+}
+
+.Titulos{
+  text-align: center;
+}
+
+.ButtonTable{
+  align-items: center;
+  margin-left: 46%;
+  margin-top: 5%;
+  width: 7%;
+  height: 5%;
+  font-size: 15px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(40, 40, 230);
+}
+
+.LabelTurma{
+  color: white;
+  margin-top: 3%;
+  margin-left: 30%;
+  font-size: 20px;
+  text-align: center;
+}
+
+.border{
+  border: solid 1px white;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
